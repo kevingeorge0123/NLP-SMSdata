@@ -1,7 +1,5 @@
-# NLP-YelpText-data
+# NLP-SMS-data
 
-To classify Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews. Each observation in this dataset is a review of a particular business by a particular user.
+We'll be using a dataset from the UCI datasets! 
 
-Pipeline method is used
-
-Overall F1 score - 0.8
+The file we are using contains a collection of more than 5 thousand SMS phone messages.
